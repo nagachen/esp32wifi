@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "wifiscan",
+			"path": "../../wifiscan"
+		},
+		{
+			"name": "websever",
+			"path": "../../websever"
+		},
+		{
+			"name": "webled",
+			"path": "../../webled"
+		},
+		{
+			"name": "CamServer",
+			"path": ".."
+		},
+		{
+			"name": "tm_cam",
+			"path": "../../tm_cam"
+		},
+		{
+			"name": "tm_image",
+			"path": "../../../../Downloads/tm_image/tm_image"
+		}
+	],
+	"settings": {}
+}
